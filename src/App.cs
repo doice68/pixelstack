@@ -73,13 +73,12 @@ class App
     public void NewFile()
     {
         InitViews();
-        notificationManager.Add(new(Color.BLUE.ToVec(), "Created", "yayyyyy"));
+        //notificationManager.Add(new(Color.BLUE.ToVec(), "Created", "yayyyyy"));
     }
     void SaveFile(string dir)
     {
         GifExporter exporter = new();
         exporter.ExportAndSave(previewView.spriteStack, dir + ".gif");
-        // ExportImage(image, dir);
     }
     void SaveAsSpriteSheet()
     {
