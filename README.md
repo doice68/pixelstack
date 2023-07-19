@@ -4,6 +4,7 @@
  
  features missing:
    - loading and saving project
+   - notifications
   
 known bugs
    - gif exporter is broken
