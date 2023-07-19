@@ -1,0 +1,231 @@
+D:\c#\raylib\app\bin\Debug\net6.0\app.exe
+D:\c#\raylib\app\bin\Debug\net6.0\app.deps.json
+D:\c#\raylib\app\bin\Debug\net6.0\app.runtimeconfig.json
+D:\c#\raylib\app\bin\Debug\net6.0\app.dll
+D:\c#\raylib\app\bin\Debug\net6.0\ref\app.dll
+D:\c#\raylib\app\bin\Debug\net6.0\app.pdb
+D:\c#\raylib\app\bin\Debug\net6.0\ImGui.NET.dll
+D:\c#\raylib\app\bin\Debug\net6.0\Raylib-cs.dll
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\osx\native\libcimgui.dylib
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\c#\raylib\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\c#\raylib\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\raylib\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\c#\raylib\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\c#\raylib\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\c#\raylib\app\obj\Debug\net6.0\app.csproj.CopyComplete
+D:\c#\raylib\app\obj\Debug\net6.0\app.dll
+D:\c#\raylib\app\obj\Debug\net6.0\ref\app.dll
+D:\c#\raylib\app\obj\Debug\net6.0\app.pdb
+D:\c#\raylib\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\app.exe
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\app.deps.json
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\app.runtimeconfig.json
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\app.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\ref\app.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\app.pdb
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\ImGui.NET.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\Raylib-cs.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\osx\native\libcimgui.dylib
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.csproj.CopyComplete
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.dll
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\ref\app.dll
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.pdb
+D:\c#\raylib\pxl editor2\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\Microsoft.Toolkit.HighPerformance.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\Raylib-CsLo.dll
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\linux-x64\native\readme.md
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\osx-x64\native\readme.md
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\win-x64\native\raylib.pdb
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\runtimes\win-x86\native\needs-pr.txt
+D:\c#\raylib\pxl editor2\bin\Debug\net6.0\Unglide.dll
+D:\c#\raylib\app\bin\Debug\net6.0\Unglide.dll
+D:\c#\raylib\app\bin\Debug\net6.0\Microsoft.Toolkit.HighPerformance.dll
+D:\c#\raylib\app\bin\Debug\net6.0\Raylib-CsLo.dll
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\linux-x64\native\readme.md
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\osx-x64\native\readme.md
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\win-x64\native\raylib.pdb
+D:\c#\raylib\app\bin\Debug\net6.0\runtimes\win-x86\native\needs-pr.txt
+D:\c#\raylib\blurprint\bin\Debug\net6.0\app.exe
+D:\c#\raylib\blurprint\bin\Debug\net6.0\app.deps.json
+D:\c#\raylib\blurprint\bin\Debug\net6.0\app.runtimeconfig.json
+D:\c#\raylib\blurprint\bin\Debug\net6.0\app.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\ref\app.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\app.pdb
+D:\c#\raylib\blurprint\bin\Debug\net6.0\Unglide.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\ImGui.NET.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\Microsoft.Toolkit.HighPerformance.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\Raylib-cs.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\Raylib-CsLo.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\osx\native\libcimgui.dylib
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\linux-x64\native\readme.md
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\osx-x64\native\readme.md
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\win-x64\native\raylib.pdb
+D:\c#\raylib\blurprint\bin\Debug\net6.0\runtimes\win-x86\native\needs-pr.txt
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.csproj.CopyComplete
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.dll
+D:\c#\raylib\blurprint\obj\Debug\net6.0\ref\app.dll
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.pdb
+D:\c#\raylib\blurprint\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\app.exe
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\app.deps.json
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\app.runtimeconfig.json
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\app.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\app.pdb
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\Unglide.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\ImGui.NET.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\Microsoft.Toolkit.HighPerformance.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\Raylib-cs.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\Raylib-CsLo.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\osx\native\libcimgui.dylib
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\linux-x64\native\readme.md
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\osx-x64\native\readme.md
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\win-x64\native\raylib.pdb
+D:\projects\csharp\raylib\PixelApp-main\bin\Debug\net6.0\runtimes\win-x86\native\needs-pr.txt
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.csproj.CopyComplete
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.dll
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\refint\app.dll
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.pdb
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\projects\csharp\raylib\PixelApp-main\obj\Debug\net6.0\ref\app.dll
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.dll
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\ref\app.dll
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.pdb
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\app.exe
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\app.deps.json
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\app.runtimeconfig.json
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\app.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\ref\app.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\app.pdb
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\Unglide.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\ImGui.NET.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\Microsoft.Toolkit.HighPerformance.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\Raylib-cs.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\Raylib-CsLo.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\osx\native\libcimgui.dylib
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\linux-x64\native\readme.md
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\osx-x64\native\readme.md
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\win-x64\native\raylib.pdb
+D:\c#\raylib\blurprint\src\bin\Debug\net6.0\runtimes\win-x86\native\needs-pr.txt
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.csproj.CopyComplete
+D:\c#\raylib\blurprint\src\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\trash\src\bin\Debug\net6.0\app.exe
+D:\trash\src\bin\Debug\net6.0\app.deps.json
+D:\trash\src\bin\Debug\net6.0\app.runtimeconfig.json
+D:\trash\src\bin\Debug\net6.0\app.dll
+D:\trash\src\bin\Debug\net6.0\app.pdb
+D:\trash\src\bin\Debug\net6.0\Unglide.dll
+D:\trash\src\bin\Debug\net6.0\ImGui.NET.dll
+D:\trash\src\bin\Debug\net6.0\Microsoft.Toolkit.HighPerformance.dll
+D:\trash\src\bin\Debug\net6.0\Raylib-cs.dll
+D:\trash\src\bin\Debug\net6.0\Raylib-CsLo.dll
+D:\trash\src\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+D:\trash\src\bin\Debug\net6.0\runtimes\osx\native\libcimgui.dylib
+D:\trash\src\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+D:\trash\src\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+D:\trash\src\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\trash\src\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\trash\src\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\trash\src\bin\Debug\net6.0\runtimes\linux-x64\native\readme.md
+D:\trash\src\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\trash\src\bin\Debug\net6.0\runtimes\osx-x64\native\readme.md
+D:\trash\src\bin\Debug\net6.0\runtimes\win-x64\native\raylib.pdb
+D:\trash\src\bin\Debug\net6.0\runtimes\win-x86\native\needs-pr.txt
+D:\trash\src\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\trash\src\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\trash\src\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\trash\src\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\trash\src\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\trash\src\obj\Debug\net6.0\app.csproj.CopyComplete
+D:\trash\src\obj\Debug\net6.0\app.dll
+D:\trash\src\obj\Debug\net6.0\refint\app.dll
+D:\trash\src\obj\Debug\net6.0\app.pdb
+D:\trash\src\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\trash\src\obj\Debug\net6.0\ref\app.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\app.exe
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\app.deps.json
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\app.runtimeconfig.json
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\app.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\app.pdb
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\ImGui.NET.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\Raylib-cs.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\linux-x64\native\libcimgui.so
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\osx\native\libcimgui.dylib
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\win-x64\native\cimgui.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\win-x86\native\cimgui.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.AssemblyInfo.cs
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.csproj.CopyComplete
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.dll
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\ref\app.dll
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.pdb
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\app.genruntimeconfig.cache
+D:\c#\raylib\pixelstack\src\obj\Debug\net6.0\refint\app.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\AnimatedGif.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\c#\raylib\pixelstack\src\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll

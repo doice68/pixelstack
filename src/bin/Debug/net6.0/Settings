@@ -1,0 +1,14 @@
+{
+  "rotate": true,
+  "zoom": 0.7,
+  "previewColor": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0
+  },
+  "showCurrentLayer": false,
+  "fillInBetween": false,
+  "spread": 2,
+  "squashAmount": 0.3,
+  "placementmode": 0
+}
